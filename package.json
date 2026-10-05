@@ -1,0 +1,15 @@
+{
+  "name": "memory-store",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "migrate": "node src/migrate.mjs",
+    "seed": "node src/seed.mjs",
+    "search": "node src/search.mjs"
+  },
+  "dependencies": {
+    "pg": "^8.13.0",
+    "yaml": "^2.6.0"
+  }
+}

@@ -1,0 +1,4 @@
+node_modules/
+.env
+*.plain
+memory-store.config.json

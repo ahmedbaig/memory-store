@@ -1,0 +1,6 @@
+{
+  "extraMemoryRoots": ["~/Work/shared-agents/projects"],
+  "projectFolderPrefixes": ["CLIENT"],
+  "workPattern": "acme|\\bTICKET-\\d+",
+  "homelabPattern": "proxmox|homelab|\\bCT ?1\\d\\d\\b|grafana|prometheus"
+}
